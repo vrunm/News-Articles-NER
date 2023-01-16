@@ -4,5 +4,5 @@ Data from different news articles was scraped and used to identify the risk term
 
 Built a custom NER model to identify the named entities from News Articles.
 
-Different named entities like organization, location were identified and identified the key factors for risk in a certain company.
-> View Here: [Colab Link](https://drive.google.com/file/d/1bLWI7HotwUDNFnNFMKrNQy5X-ltTMjP5/view?usp=sharing)
+Different named entities like organization, location were identified.
+The Key Risk Factors were identified for each companay in a news article.
